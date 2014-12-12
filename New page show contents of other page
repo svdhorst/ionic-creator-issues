@@ -1,0 +1,6 @@
+I currently have a menu + 8 pages defined in Ionic Creator.
+
+When I no add a new Page, the IDE shows the contents of another (randomly taken) page inside that newly created page.
+
+The newly created Page can not be altered.
+
